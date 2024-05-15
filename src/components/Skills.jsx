@@ -5,7 +5,7 @@ import CSS from '../assets/css.png'
 import ReactJS from '../assets/react.png'
 import Tailwind from '../assets/tailwind.png'
 import GitHub from '../assets/git.png'
-impoer django from '../assets/django.png'
+import django from '../assets/django.png'
 
 const Skills = () => {
   return (
