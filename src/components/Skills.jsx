@@ -5,6 +5,7 @@ import CSS from '../assets/css.png'
 import ReactJS from '../assets/react.png'
 import Tailwind from '../assets/tailwind.png'
 import GitHub from '../assets/git.png'
+impoer django from '../assets/django.png
 
 const Skills = () => {
   return (
@@ -38,6 +39,10 @@ const Skills = () => {
                 <div className='shadow-md shadow-[#5c6199] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={GitHub} alt='html icon' />
                     <p className='py-4'>Github</p>
+                </div>
+              <div className='shadow-md shadow-[#5c6199] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={django} alt='html icon' />
+                    <p className='py-4'>Django</p>
                 </div>
               
             </div>
